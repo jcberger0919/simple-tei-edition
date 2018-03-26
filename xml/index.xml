@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Why?</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication information</p>
@@ -18,7 +18,31 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div>
+           <lg type="stanza">
+             THE murmur of a bee
+             A witchcraft yieldeth me. 
+             If any ask me why,
+             'Twhere easier to die
+             Than tell.
+           </lg>
+         </div>
+         <lg type="stanza">
+           The red upon the hill
+           Taketh away my will ;
+           If anybody sneer, 
+           Take care, for God is here,
+           That's all. 
+         </lg>
       </body>
+      <div>
+        <lg type="stanza">
+          The breaking of the day
+          Addeth to my degree ; 
+          If any ask me how, 
+          Artist, who drew me so,
+          Must tell! 
+        </lg>
+      </div>
   </text>
 </TEI>
